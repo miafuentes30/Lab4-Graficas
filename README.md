@@ -8,7 +8,7 @@ shaders procedurales para renderizar planetas a partir de una única malla (esfe
 ### Características principales:
 - Gas Giant con 4 bandas atmosféricas y anillo
 - Planeta rocoso tipo Marte con cráteres y polvo y luna
-- Planeta SciFi con degradado fluorescente y halos celestes
+- Planeta SciFi tipo planeta de agua
 - Planetas extra: Lava (volcánico) y Ice (helado)
 - Luna orbital procedimental (del planeta rocoso)
 - Anillos procedurales con bandas y transparencia (del planeta gaseoso)
@@ -111,8 +111,8 @@ Los shaders utilizan parámetros compartidos definidos en `src/renderer/uniforms
 
 3. **SciFi** (`src/shaders/scifi_planet.rs`)
    - Degradado de 4 capas fluorescentes
-   - Colores neón personalizables
-   - Halos celestes emisivos
+   - Colores neón personalizables 
+   - Halos celestes emisivos (aspecto aguoso)
    - Bandas latitudinales animadas
 
 ### Planetas adicionales
