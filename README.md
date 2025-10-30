@@ -145,8 +145,8 @@ Los shaders utilizan parámetros compartidos definidos en `src/renderer/uniforms
   - Color sólido sin efectos
 
 ## CAPTURAS DE PANTALLA
-![alt text](screenshots/frame_13759.png)
-![alt text](screenshots/frame_16206.png)
-![alt text](screenshots/frame_22465.png)
-![alt text](screenshots/frame_25086.png)
-![alt text](screenshots/frame_26451.png)
+![Planeta Rocoso](Lab4/screenshots/frame_13759.png)
+![Planeta gaseoso](Lab4/screenshots/frame_16206.png)
+![Planeta SciFi](Lab4/screenshots/frame_22465.png)
+![Planeta Lava](Lab4/screenshots/frame_25086.png)
+![Planeta Hielo](Lab4/screenshots/frame_26451.png)
