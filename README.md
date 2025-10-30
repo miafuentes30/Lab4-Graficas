@@ -143,3 +143,10 @@ Los shaders utilizan parámetros compartidos definidos en `src/renderer/uniforms
 - **Flat** (`src/shaders/flat.rs`):
   - Shader básico para debug
   - Color sólido sin efectos
+
+## CAPTURAS DE PANTALLA
+![alt text](screenshots/frame_13759.png)
+![alt text](screenshots/frame_16206.png)
+![alt text](screenshots/frame_22465.png)
+![alt text](screenshots/frame_25086.png)
+![alt text](screenshots/frame_26451.png)
